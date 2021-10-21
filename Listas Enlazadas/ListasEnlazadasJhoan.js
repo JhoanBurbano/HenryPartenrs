@@ -60,4 +60,3 @@ LinkedList.prototype.search=function(value){
   return null;
 }
 
-///xd
